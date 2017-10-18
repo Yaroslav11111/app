@@ -1,0 +1,19 @@
+{
+    "name": "sn/app",
+    "description": "application",
+    "type": "Project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Snizhko",
+            "email": "snizhko@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "taskManager\\":""
+        }
+    }
+}
